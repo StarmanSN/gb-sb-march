@@ -2,8 +2,6 @@ package ru.gb.gbsbmarch.model;
 
 import lombok.*;
 
-import java.util.Objects;
-
 @Getter
 @Setter
 @AllArgsConstructor
