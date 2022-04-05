@@ -1,3 +1,4 @@
+/*
 package ru.gb.gbsbmarch.config;
 
 import lombok.Getter;
@@ -15,3 +16,4 @@ public class ProductProps {
 
     private List<Product> products;
 }
+*/
