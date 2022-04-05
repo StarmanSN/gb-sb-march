@@ -1,3 +1,4 @@
+/*
 package ru.gb.gbsbmarch.controller;
 
 import lombok.RequiredArgsConstructor;
@@ -32,4 +33,4 @@ public class HelloController {
 //    public String handlerRuntimeException(RuntimeException ex) {
 //        return "So sad, but ..... fail";
 //    }
-}
+}*/

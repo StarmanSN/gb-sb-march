@@ -19,3 +19,6 @@ shop.properties.products:
     id: 3
     title: 'Phone3'
     cost: 550
+
+products:
+  product:
